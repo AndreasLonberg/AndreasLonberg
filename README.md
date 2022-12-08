@@ -2,8 +2,8 @@
 - 👀 I’m interested in Containerisation & Kubernetes, Infrastructure as Code, Bringing Ops into DevOps for real
 - 🌱 I’m currently learning everything and anything
 - 💞️ I’m looking to collaborate on buildit projects
-- 📫 How to reach me mailto:andreas.lonberg@wipro.com or mailto:andreas.lonberg@gmail.com
-- 
+- 📫 How to reach me andreas.lonberg@wipro.com or andreas.lonberg@gmail.com
+
 
 <!---
 AndreasLonberg/AndreasLonberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
